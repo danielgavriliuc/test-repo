@@ -1,0 +1,10 @@
+Make changes to files in your git repo. These changes may includes
+
+adding new files to the repo
+adding content to the files (Text)
+adding new directories to your repo
+For each change, practice using
+
+git add to stage the change, and
+git commit to take a snapshot of your repository
+After you’ve made a few commits, check out the output of the git log command. You should see the history of your repository, including all of the commit messages!
